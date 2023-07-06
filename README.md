@@ -1,7 +1,8 @@
 # 3-BistuAnimals
-  INSTALL
+  INSTALL  
+  
+    https://github.com/Bistu-OSSDT-2023/3-BistuAnimals/tree/main
     
-
   FAQ  
   
     关于本项目的纯文本格式的常见问题解答。
